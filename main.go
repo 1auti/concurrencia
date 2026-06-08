@@ -22,5 +22,5 @@ func main() {
 
 	*/
 
-	ejemplo4()
+	ejemploSelect()
 }
